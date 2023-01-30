@@ -12,3 +12,4 @@
 > Alejandro Villafranco Desiderio
 > https://github.com/luisreylara/ros/blob/main/files/Tesis_Alejandro_Villafranco_Desiderio.pdf
 
+![alt text](./files/ros1.png)
